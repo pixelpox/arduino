@@ -1,0 +1,2 @@
+Name	Group	Profile	Enabled	Action	Override	Program	Local Address	Remote Address	Protocol	Local Port	Remote Port	Authorized Users	Authorized Computers	Authorized Local Principals	Local User Owner	Application Package
+MQTT		All	Yes	Allow	No	Any	Any	Any	TCP	1883	Any	Any	Any	Any	Any	Any
